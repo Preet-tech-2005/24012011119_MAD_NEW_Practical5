@@ -38,7 +38,7 @@ This practical demonstrates how to design Login and Registration screens using *
 
 ## Output
 
-<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/4d4e6511-fd7f-4095-86f0-f422ceab3700" />
+<img width="250" height="500" alt="image" src="https://github.com/Preet-tech-2005/24012011119_MAD_NEW_Practical5/blob/master/Screenshots/Screenshot_20261013_210637.png" />
 
 <img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/cc1cebad-3468-4e58-b933-2e0ff93dfaf0" />
 
