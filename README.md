@@ -2,10 +2,9 @@
 
 ## Student Information
 
-- **Name:** Dhruti Patel
-- **Enrollment No.:** 24012011083
-- **Department:** Computer Engineering
-- **Subject:** Mobile Application Development
+- **Name:** Preet Patel
+- **Enrollment No.:** 24012011119
+
 
 ---
 
@@ -40,5 +39,5 @@ This practical demonstrates how to design Login and Registration screens using *
 
 <img width="250" height="500" alt="image" src="https://github.com/Preet-tech-2005/24012011119_MAD_NEW_Practical5/blob/master/Screenshots/Screenshot_20261013_210637.png" />
 
-<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/cc1cebad-3468-4e58-b933-2e0ff93dfaf0" />
+<img width="250" height="500" alt="image" src="" />
 
